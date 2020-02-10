@@ -1,0 +1,14 @@
+{
+  "name": "pushnotification",
+  "version": "1.0.0",
+  "description": "push notification for module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fred Kibuthu",
+  "license": "MIT",
+  "dependencies": {
+    "web-push": "^3.4.3"
+  }
+}
